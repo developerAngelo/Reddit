@@ -2,7 +2,7 @@
 //  RedditTests.swift
 //  RedditTests
 //
-//  Created by Ruthlyn Huet on 5/9/21.
+//  Created by Angelo Acero on 5/9/21.
 //
 
 import XCTest
